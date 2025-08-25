@@ -1,7 +1,7 @@
 # Practical-2
 
 ## Logcat
-<img width="1383" height="408" alt="image" src="https://github.com/user-attachments/assets/2a3ca4cb-63d4-49f4-82c4-fe36e0d9ed86" />
+<img width="1808" height="284" alt="image" src="https://github.com/user-attachments/assets/5c76706a-6104-403c-bd0c-95bd3535e92a" />
 
 ---
 
